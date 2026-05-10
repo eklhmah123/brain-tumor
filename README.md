@@ -395,7 +395,7 @@ This project implements a Vision Transformer architecture for medical image clas
 
 ## Requirements
 
-``bash
+bash
 pip install kagglehub vit-pytorch prettytable arrow seaborn
 
 Future Improvements
